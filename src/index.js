@@ -7,7 +7,7 @@ const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
   // production
-  "docker.yhnsoft.work": dockerHub,
+  "dockerproxy.yhnsoft.work": dockerHub,
 
 };
 

@@ -8,7 +8,7 @@ const dockerHub = "https://registry-1.docker.io";
 const routes = {
   // production
   "dockerproxy.yhnsoft.work": dockerHub,
-  "google.yhnsoft.work": "google.com.hk",
+  "google.yhnsoft.work": "https://google.com.hk",
 };
 
 function routeByHosts(host) {

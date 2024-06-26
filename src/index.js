@@ -9,6 +9,7 @@ const routes = {
   // production
   "dockerproxy.yhnsoft.work": dockerHub,
   "github.yhnsoft.work": "https://github.com",
+  "chatgpt.yhnsoft.work": "https://chatgpt.com",
 };
 
 function routeByHosts(host) {

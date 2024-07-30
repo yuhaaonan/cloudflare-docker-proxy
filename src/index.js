@@ -9,8 +9,8 @@ const routes = {
   // production
   "dockerproxy.yhnsoft.work": dockerHub,
   "github.yhnsoft.work": "https://github.com",
-  "chatgpt.yhnsoft.work": "https://chatgpt.com",
   "dm.yhnsoft.work": "https://download.manjaro.org",
+  "vd.yhnsoft.work": "https://vscode.download.prss.microsoft.com",
 };
 
 function routeByHosts(host) {

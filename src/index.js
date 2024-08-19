@@ -11,6 +11,7 @@ const routes = {
   "github.yhnsoft.work": "https://github.com",
   "dm.yhnsoft.work": "https://download.manjaro.org",
   "vd.yhnsoft.work": "https://vscode.download.prss.microsoft.com",
+  "buildroot.yhnsoft.work": "https://buildroot.org",
 };
 
 function routeByHosts(host) {

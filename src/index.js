@@ -12,6 +12,8 @@ const routes = {
   "dm.yhnsoft.work": "https://download.manjaro.org",
   "vd.yhnsoft.work": "https://vscode.download.prss.microsoft.com",
   "buildroot.yhnsoft.work": "https://buildroot.org",
+  "raspbian.yhnsoft.work": "http://raspbian.raspberrypi.com",
+  "archive.raspberrypi.yhnsoft.work": "http://archive.raspberrypi.com"
 };
 
 function routeByHosts(host) {
